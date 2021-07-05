@@ -24,7 +24,7 @@
   ],
   "scripts": {
     "build": "node-gyp build",
-    "install": "node-gyp rebuild",
+    "install": "node-gyp rebuild --arch=x64",
     "configure": "node-gyp configure"
   },
   "dependencies": {
