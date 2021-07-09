@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "github:knopa4ok/fsuipc"
+    "url": "https://github.com/knopa4ok/fsuipc.git"
   },
   "license": "MIT",
   "main": "./main.js",
